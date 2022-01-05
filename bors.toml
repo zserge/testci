@@ -1,0 +1,5 @@
+status = [
+  "build"
+]
+# 5 minute timeout
+timeout_sec = 300
