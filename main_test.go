@@ -2,7 +2,6 @@ package main
 
 import "testing"
 
-
 var array []int
 
 func init() {
@@ -11,4 +10,5 @@ func init() {
 
 func TestIt(t *testing.T) {
 	t.Log(array[6] + array[7])
+	t.Log("first")
 }
