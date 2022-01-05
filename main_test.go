@@ -2,6 +2,7 @@ package main
 
 import "testing"
 
+
 var array []int
 
 func init() {
