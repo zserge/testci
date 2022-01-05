@@ -1,5 +1,6 @@
 status = [
   "build"
 ]
+use_squash_merge = true
 # 5 minute timeout
 timeout_sec = 300
