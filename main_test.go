@@ -11,4 +11,5 @@ func init() {
 func TestIt(t *testing.T) {
 	t.Log(array[6] + array[7])
 	t.Log("first")
+	t.Log("second")
 }
